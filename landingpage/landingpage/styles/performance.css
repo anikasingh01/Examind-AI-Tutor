@@ -1,0 +1,75 @@
+/* Base Styles */
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: linear-gradient(to right, #0d0d0d, #1a1a1a);
+  color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+/* Performance Container */
+.performance-container {
+  max-width: 800px;
+  margin: 4rem auto;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 16px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(12px);
+}
+
+/* Title */
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #ffd966;
+}
+
+/* List styles */
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+li {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+  border-left: 5px solid #00c6ff;
+  border-radius: 10px;
+  transition: background 0.3s ease;
+  color: #ddd;
+}
+
+li:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+/* Empty State */
+.empty {
+  text-align: center;
+  font-style: italic;
+  color: #aaa;
+  margin-top: 2rem;
+}
+
+/* Back Link */
+.back-link {
+  display: block;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.back-link a {
+  text-decoration: none;
+  color: #00c6ff;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.back-link a:hover {
+  color: #69e1ff;
+}

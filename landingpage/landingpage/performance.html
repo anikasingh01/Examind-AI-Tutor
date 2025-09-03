@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Performance | ExaMind</title>
+  <link rel="stylesheet" href="styles/performance.css" />
+</head>
+<body>
+  <div class="performance-container">
+    <h1>📊 Your Quiz Performance</h1>
+
+    <ul id="performance-list">
+      <li class="empty">Loading...</li>
+    </ul>
+
+    <div class="back-link">
+      <a href="dashboard.html">← Back to Dashboard</a>
+    </div>
+  </div>
+
+  <script>
+    const list = document.getElementById("performance-list");
+
+    function loadPerformance() {
+      const performance = JSON.parse(localStorage.getItem("examind-performance")) || [];
+
+      list.innerHTML = "";
+
+      if (performance.length === 0) {
+        list.innerHTML = "<li class='empty'>You haven't taken any quizzes yet.</li>";
+        return;
+      }
+
+      performance.forEach(entry => {
+        const li = document.createElement("li");
+        const date = new Date(entry.timestamp).toLocaleString();
+        li.innerHTML = `
+          <strong>📘 Topic:</strong> ${entry.topic} <br />
+          <strong>✅ Score:</strong> ${entry.score} <br />
+          <strong>🕒 Date:</strong> ${date}
+        `;
+        list.appendChild(li);
+      });
+    }
+
+    loadPerformance();
+  </script>
+</body>
+</html>

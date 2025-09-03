@@ -1,0 +1,383 @@
+﻿S. Np,Question no,Subject,Topic,option_a,option_b,option_c,option_d,Correct Answer,Year
+1,"Q1.If the first term of an A.P. is 3 and the sum of its first four terms is equal to one-fifth of the sum of the next four
+terms, then the sum of the first 20 terms is equal to",Maths,Arithmetic Progression,-1080,-1020,-1200,-120,C,2025
+2,"Q3. Let the position vectors of the vertices A,B and C of a tetrahedron ABCD be i+2j+k, i+3j-2k and 2i+ j - k respectively. The altitude from the vertex to the opposite face meets the median line segment through of the triangle at the point . If the length of is and the volume of the
+tetrahedron is , then the position vector of is",Maths,Vectors & 3D Geometry, 2/3, 1/2, 4/9, 3/5,B,2025
+3,"Marks obtains by all the students of class 12 are presented in a freqency distribution with classes of equal width.
+Let the median of this grouped data be 14 with median class interval 12-18 and median class frequency 12 . If
+the number of students whose marks are less than 12 is 18 , then the total number of students is",Maths,Statistics,52,48,44,40,C,2025
+4,"""Let a curve y = f(x) pass through the points (0, 5) and (loge 2, k). If the curve satisfies the differential equation:
+2(3 + y)e^(2x) dx − (7 + e^(2x)) dy = 0
+Then k is equal to:
+",Maths,Differential Equation,4,32,8,16,C,2025
+5,"""If the function f(x) is defined as:
+f(x) = { (2/x) * (sin((k1 + 1)x) + sin((k2 − 1)x)), x < 0 4, x = 0
+(2/x) * loge((2 + k1x)/(2 + k2x)), x > 0}
+If f(x) is continuous at x = 0, then k1² + k2² is:",Maths,Differential Equation,20,5,8,10,D,2025
+6,"Let D be the foot of the perpendicular from the point P(10, −3, −1) on the line:
+(x−3)/7 = (y−2)/−1 = (z+1)/−2
+Then the area of the right-angled triangle PQR, where Q = (3, −2, 1), is:",Maths,3D geometry,9√15,√30,8√15,3√30,D,2025
+7,"Let the arc AB of a circle subtend a right angle at the center O. If the point C on the arc AB divides the arc such that:
+(length of arc AB)/(length of arc BC) = 1/5,
+and OC = αOA + βOB, then α + √2(√3 − 1)β is:
+(1) 2√3 (2) 2−√3 (3) 5√3 (4) 2 + √3",Maths,Vectors & 3D Geometry,2√3,2−√3,5√3,2+√3,D,2025
+8,"The number of words which can be formed using all the letters of the word ""DAUGHTER"", so that all the vowels never come together, is:",Maths,Permutations and Combinations,36000,37000,34000,35000,D,2025
+9,"Let the area of a triangle with vertices P(5, 4), Q(−2, 4), and R(a, b) be 35 square units. If its orthocenter and centroid are O(2, 14/5) and C(c, d) respectively, then c + 2d is:",Maths,Coordinate Geometrt,2.67,2.33,2,3,D,2025
+10,The sum of all rational terms in the expansion of (√3 + √5)^12 is equal to:,Maths,Binomial Thoerem,22,39,40,26,C,2025
+11,"Statement I: Fructose does not contain an aldehydic group but still reduces Tollen's reagent.
+Statement II: In the presence of base, fructose undergoes rearrangement to give glucose. ",Chemistry,Biomolecules,Both Statement I and Statement II are true,Both Statement I and Statement II are false,Statement I is true but Statement II is false, Statement I is false but Statement II is true,A,2025
+12,The complex that shows Facial - Meridional isomerism is:,Chemistry,Coordination Compounds,(1) [Co(en)2Cl2]+,(2) [Co(en)3]3+,(3) [Co(NH3)3Cl3],(4) [Co(NH3)4Cl2]+,D,2025
+13,"What amount of bromine will be required to convert 2 g of phenol into 2,4,6-tribromophenol? (Given molar mass in g/mol of C, H, O, Br are 12, 1, 16, 80 respectively)
+",Chemistry,Halogenation,20.44g,4.0g,6.0g,10.22g,D,2025
+14,Which among the following react with Hinsberg's reagent?,Chemistry,Amines,"A,B and E","A,C and E",C and D,B and D,B,2025
+15,"Statement I: In Lassaigne's test, the covalent organic molecules are transformed into ionic compounds.
+Statement II: The sodium fusion extract of an organic compound having N and S gives prussian blue colour with FeSO4 and Na4[Fe(CN)6].",Chemistry,Qualitative Analysis,Statement I is true but Statement II is false,Both Statement I and Statement II are false,Both Statement I and Statement II are true, Statement I is false but Statement II is true,C,2025
+16,"Propane molecule on chlorination under photochemical condition gives two di-chloro products, ""x"" and ""y"". Amongst ""x"" and ""y"", ""x"" is an optically active molecule. How many tri-chloro products (consider only structural isomers) will be obtained from ""x"" when it is further treated with chlorine under the photochemical condition?",Chemistry, Isomerism,2,5,4,3,D,2025
+17,"0.1 molal aqueous solution of a chromium complex shows a depression in freezing point of 0.558°C. Assuming 100% ionisation and coordination number of Cr is 6, the complex will be:
+(Given Kf = 1.86 K kg mol−1)
+(1) [Cr(NH3)5Cl]Cl2
+(2) [Cr(NH3)6]Cl3
+(3) [Cr(NH3)3Cl3]
+(4) [Cr(NH3)4Cl2]Cl",Chemistry,Solutions and Colligative Properties,[Cr(NH3)5Cl]Cl2,[Cr(NH3)6]Cl3, [Cr(NH3)3Cl3],[Cr(NH3)4Cl2]Cl,B,2025
+18,"The major product of the following reaction is:
+CH3CH2CH=O + excess HCHO + alkali (reflux)",Chemistry,Aldol Condensation – Organic Reactions,CH3CH(OH)CH2CH2OH, CH3CH2CH(OH)CH2OH,HOCH2CH2CH2CH2OH,CH3CH(OH)CH2CH2CH2OH,A,2025
+19,"The incorrect statement among the following is:
+(1) PH3 shows lower proton affinity than NH3.
+(2) PF3 can act as an oxidizing agent, but not as a reducing agent.
+(3) NF3 exists but NCl3 does not.
+(4) NO2 can dimerise easily.",Chemistry,Chemical Bonding and Periodic Properties,PH3 shows lower proton affinity than NH3.,"PF3 can act as an oxidizing agent, but not as a reducing agent",NF3 exists but NCl3 does not.,NO2 can dimerise easily.,C,2025
+20,Heat treatment of muscular pain involves radiation of wavelength about 900 nm. Which spectral line of H atom is suitable for this? (Given: Rydberg constant RH = 1.097 × 10^7 m^−1),Chemistry,Atomic Structure – Spectral Series,"Balmer series, ∞ → 2","Lyman series, ∞ → 1","Paschen series, ∞ → 3","Paschen series, 5 → 3",D,2025
+21,"A spherical surface of radius of curvature R = 1.5, separates air from glass (refractive index μ2). The centre of curvature is in the glass medium. A point object O placed in air on the optic axis of the surface, so that its real image is formed at I inside glass. The line OI intersects the spherical surface at P and PO = PI. The distance PO equals to:",Physics,Ray Optics,5R,3R,1.5R,2R,B,2025
+22,"The position of a particle moving on x-axis is given by x(t) = A sin(t) + B cos²(t) + Ct² + Dt. The dimension of A is:
+(1) L²T^−2 (2) L² (3) L (4) L³T^−2",Physics,Kinematics,L²T^−2,L²,L,L³T^−2,C,2025
+23,"Refer to the circuit diagram given. Which of the following observations are correct?
+A. Total resistance of circuit is 6Ω
+B. Current in Ammeter is 1 A
+C. Potential across AB is 4V
+D. Potential across CD is 4V
+E. Total resistance of circuit is 8Ω",Physics,Circuits,"A,B and D ","A,B and C","A, C and D Only","B, C and E Only",A,2025
+24,"Statement I: The hot water flows faster than cold water.
+Statement II: Soap water has higher surface tension as compared to fresh water.
+(1) Statement I is true but Statement II is false
+(2) Statement I is false but Statement II is true
+(3) Both Statement I and Statement II are false
+(4) Both Statement I and Statement II are true",Physics,Surface Tenstion,Statement I is true but Statement II is false, Statement I is false but Statement II is true,Both Statement I and Statement II are true,Both Statement I and Statement II are false,C,2025
+25,"A sub-atomic particle of mass 10^−30 kg is moving with velocity 2.21 × 10^6 m/s. Under the matter wave consideration, the particle will behave closely like:
+",Physics,de Broglie Waves,Visible Radiation,Gamma Rays,IR-Radiation,X-rays,D,2025
+26,"Consider a moving coil galvanometer (MCG):
+A. The torsional constant in MCG has dimensions [ML²T^−2]
+B. Increasing current sensitivity may not necessarily increase voltage sensitivity
+C. Doubling number of turns doubles voltage sensitivity
+D. MCG can be converted into ammeter using large shunt resistance
+E. Current sensitivity is inversely proportional to number of turns",Physics,Instruments," A, D Only"," A, B, E Only"," B, D, E Only","A, B Only",A,2025
+27,"A gun fires a lead bullet of temperature 300K into a wooden block. The bullet, having melting temperature of 600K, melts completely inside. If total heat required is 625J, find mass of bullet. 
+(Latent heat of fusion = 2.5 × 10^4 J/kg, Specific heat = 125 J/kg·K)",Physics,Calorimetry,10g,20g,5g,15g,A,2025
+28,"A radioactive nucleus A has 3 times decay constant as that of nucleus B. If initial amounts are same, what is ratio of number of nuclei of A to B after one half-life of B?",Physics,Radioactivity,0.13,8,4,0.25,A,2025
+29,"A light hollow cube of side 10 cm and mass 10 g is floating in water. It is pushed down and released to perform SHM. Time period of oscillations is yπ × 10^−2 s. Find y:
+",Physics,Buoyancy-based Oscillations,6,2,4,1,B,2025
+30,"Consider a circular disc of radius 20 cm with centre located at the origin. A circular hole of radius 5 cm is cut
+from this disc in such a way that the edge of the hole touches the edge of the disc. The distance of centre of
+mass of residual or remaining disc from the origin will be",Physics,Centre of Mass,2 cm,1.5cm,1cm,5cm,D,2025
+31,If the percentage errors in measuring the length and the diameter of a wire are 0.1% each. The percentage error in measuring its resistance will be:,Physics,Error Analysis,0.20%,0.30%,0.1,0.14%,B,2024
+32,"A force is represented by F = ax² + bt¹/², where x = distance and t = time. The dimensions of b²/a are:",Physics,Dimensional Analysis,M L³ T⁻³,M L T⁻²,M L⁻¹ T⁻¹,M L² T⁻³,A,2024
+33,The relation between time ‘t’ and distance ‘x’ is t = αx² + βx. The relation between acceleration a and velocity v is:,Physics,Kinematics – Motion in 1D,a = -2αv³  ,a = -5αv⁵  ,a = -3αv²  ,a = -4αv⁴,A,2024
+34,"In the given arrangement of a doubly inclined plane two blocks of masses M and m are placed. The blocks are
+connected by a light string passing over an ideal pulley as shown. The coefficient of friction between the surface
+of the plane and the blocks is 0 . 25. The value of m, for which M = 10 kg will move down with an
+acceleration of 2 m s-2 is: (take g = 10 m s-2and tan 37° =
+3/4)",Physics,Friction and Pulley,9kg,4.5kg,6.5kg,2.25kg,B,2024
+35,"A coin is placed on a disc. The coefficient of friction between the coin and the disc is μ. If the distance of the
+coin from the center of the disc is r, the maximum angular velocity which can be given to the disc, so that the coin does not slip away, is :",Physics,Circular Motion,√(μg/r),√(r/μg),√(μg/r)  ,μ√(rg),A,2024
+36,"An artillery piece of mass M1 fires a shell of mass M2 horizontally. Instantaneously after the firing, the ratio of kinetic energy of the artillery and that of the shell is :",Physics,Momentum,M₁/(M₁+M₂), M₂/M₁ , M₂/(M₁+M₂) ,M₁/M₂,D,2024
+37,Q11.The parameter that remains the same for molecules of all gases at a given temperature is,Physics,Kinetic Theory,Kinetic energy,Momentum,mass,speed,A,2024
+38,"The fundamental frequency of a closed organ pipe is equal to the first overtone frequency of an open organ
+pipe. If length of the open pipe is 60 cm, the length of the closed pipe will be :",Physics,Waves – Sound,60cm,45cm,30cm,15cm,C,2024
+39,"Two charges q and 3q are separated by a distance ‘r’ in air. At a distance x from charge q, the resultant electric
+field is zero. The value of x is :",Physics,Electrostatics,(1+√3)/r  ,r/3(1+√3)  ,r/(1+√3),r(1+√3),C,2024
+40,"A coil is placed perpendicular to a magnetic field of 5000 T. When the field is changed to 3000 T in 2 s,
+an induced emf of 22 V is produced in the coil. If the diameter of the coil is 0 . 02 m, then the number of
+turns in the coil is:",Physics,Electromagnetic Induction,7,70,35,40,B,2024
+41,"The correct sequence of electron gain enthalpy of the elements listed below is
+A. Ar B. Br C. F D. S
+Choose the most appropriate from the options given below:",Chemistry,Periodic Table – Trends,C > B > D > A,A > D > B > C ,A > D > C > B,D > C > B > A,A,2024
+42,"Consider the oxides of group 14 elements SiO2, GeO2, SnO2, PbO2, CO and GeO. The amphoteric
+oxides are",Chemistry,Inorganic Chemistry – Oxides,"GeO, GeO₂ ","SiO₂, GeO₂","SnO₂, PbO₂","SnO₂, CO",C,2024
+43,A species having carbon with sextet of electrons and can act as electrophile is called,Chemistry,Reaction Intermediates,carbon free radical,carbanion,carbocation,pentavalent carbon,C,2024
+44,Adsorption' principle is used for which of the following purification method?,Chemistry,Adsorption,Extraction,Chromatography,Distillation,Sublimation,B,2024
+45,Identify the mixture that shows positive deviations from Raoult's Law,Chemistry,Ideal & Non-Ideal,(CH₃)₂CO + C₆H₅NH₂,CHCl₃ + C₆H₆  ,CHCl₃ + (CH₃)₂CO  ,(CH₃)₂CO + CS₂,D,2024
+46,"The metals that are employed in the battery industries are A. Fe, B. Mn, C. Ni, D. Cr, E. Cd
+Choose the correct answer from the options given below:",Chemistry,Inorganic Chemistry – Applications,"B,C and E","A,B,C,D and E","A,B,C and D","B, D and E",A,2024
+47,Identify the factor from the following that does not affect electrolytic conductance of a solution.,Chemistry,Electrochemistry,The nature of the electrolyte added.,The nature of the electrode used.,Concentration of the electrolyte.,The nature of solvent used.,D,2024
+48,"Identify correct statements from below:
+A. The chromate ion is square planar. B. Dichromates are generally prepared from chromates.
+C. The green manganate ion is diamagnetic.
+D. Dark green coloured K2MnO4 disproportionates in a neutral or acidic medium to give permanganate.
+E. With increasing oxidation number of transition metal, ionic character of the oxides decreases.
+Choose the correct answer from the options given below:",Chemistry,Transition Elements,"B,C and D","A,D and E","A,B and C","B, D and E",D,2024
+49,The compound that is white in color is,Chemistry,Salt Analysis,ammonium sulphide,lead sulphate,lead iodide,ammonium arsinomolybdate,B,2024
+50,"Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R:
+Assertion A: pKa value of phenol is 10 . 0 while that of ethanol is 15 . 9.
+Reason R: Ethanol is stronger acid than phenol.
+In the light of the above statements, choose the correct answer from the options given below:",Chemistry,Acid–Base Concepts in Organic Chemistry,A is true but R is false,A is false but R is true,Both A and R are true and R is the correct explanation of A,"Both A and R are true but R is NOT the correct
+explanation of A.",A,2024
+51,Set S of positive integers a such that (ax² + 2a+1x + 9a+4)/(x²−8x+32) < 0 for all real x. No. of elements in S:,Maths,Algebra,1,2,infinity,3,B,2024
+52,"Given quadratic has root α ≠ 1. Two statements:
+I: If α ∈ (−1, 0), then b not geometric mean of a and c.
+II: If α ∈ (0, 1), b may be geometric mean of a and c.",Maths,Quadratic Equations,Both (I) and (II) are true,Neither (I) nor (II) is true,Only (II) is true,Only (I) is true,A,2024
+53,Sum of series: 1/(1−3·1²+1⁴) + 2/(1−3·2²+2⁴) + ... up to 10 terms.,Maths,Series and Sequences,0.41,-0.41,0.5,-0.504587156,A,2024
+54,"Vertices of parallelogram A(α,β), B(1,0), C(γ,δ), D(1,2) with AB = √10 and A, C on 3y = 2x + 1. Find 2α + β + γ + δ.",Maths,Geometry of Figures,10,5,12,8,C,2024
+55,"Hyperbola has same foci as ellipse x²/9 + y²/25 = 1, and its e = 15/8 × e of ellipse. Find focal distance of given point.",Maths,Ellipse & Hyperbola,7√2/5 - 8/3,14√2/5 - 4/3,14√2/5 - 16/3,7√2/5 + 8/3,,2024
+56,Evaluate: limₓ→0 (e^(2sinx) − 2sinx − 1)/x²,Maths,Limits – Calculus,is equal to -1,does not exist,is equal to 1,is equal to 2,D,2024
+57,"System has infinite solutions:
+x−2y+z=−4
+2x+αy+3z=5
+3x−y+βz=3. Find 12α + 13β",Maths,Consistency of Systems,60,64,54,58,D,2024
+58,"f(x) = (4x + 3)/(6x − 4), x ≠ 2/3; g(x) = f∘f(x); Find g∘g∘g(4).",Maths,Composition,-0.95,0.95,-4,4,D,2024
+59,"The marbles are drawn in succession from a box containing 10 red, 30 white, 20 blue and 15 orange marbles,
+with replacement being made after each drawing. Then the probability, that first drawn marble is red and
+second drawn marble is white, is",Maths,Probability – Independent Events,0.08,0.16,0.67,0.05,A,2024
+60,"Three rotten apples are accidently mixed with fifteen good apples. Assuming the random variable x to be the
+number of rotten apples in a draw of two apples, the variance of x is",Maths,Statistics – Variance of Random Variable,37/153,57/153,47/153,40/153,D,2024
+61,"If speed, area and force are chosen as fundamental units, then the dimension of Young's modulus will be",PHYSICS,Dimensions,FA²V⁻¹,(2) FA²V⁻³,(3) FA²V⁻²,(4) FA⁻¹V⁰,d,2020
+62,Two trains A (36 km/h) and B (72 km/h) move in opposite directions. A person walks opposite to A’s motion at 8 km/h. What is the speed of the person as seen from train B?,PHYSICS,Relative Motion,29.5 m/s,(2) 28.5 m/s,(3) 31.5 m/s,(4) 30.5 m/s,a,2020
+63,"A bead stays on a rotating parabolic wire y=4Cx2y = 4Cx^2y=4Cx2. Find ω (angular speed) so that it stays at P(a, b).",PHYSICS,Circular Motion on Parabolic Wire,22gC​,(2) 2gC\sqrt{2gC}2gC​,(3) 2g/C\sqrt{2g/C}2g/C​,(4) g/2C\sqrt{g/2C}g/2C​,a,2020
+64,A cylinder of mass M and radius R is to be pulled over a step of height a by force F. What is minimum F?,PHYSICS,Mechanics (Cylinder Over Step), Mg1−(R−a)2/R2Mg\sqrt{1 - (R - a)^2/R^2}Mg1−(R−a)2/R2​, Mg1−a2/R2Mg\sqrt{1 - a^2/R^2}Mg1−a2/R2​, Mg⋅a/RMg \cdot a/RMg⋅a/R, Mg(R/(R−a))2−1Mg\sqrt{(R/(R-a))^2 - 1}Mg(R/(R−a))2−1,a,2020
+65,2 kg of 235U^{235}U235U used in 30 days. Energy per fission = 200 MeV. Power output ≈ ?,PHYSICS,Nuclear Physics (Reactor Energy),(1) 35 MW,(2) 60 MW,(3) 125 MW,(4) 54 MW,b,2020
+66,A mass m with velocity u collides elastically with a mass 3m at rest. What is the final velocity v of m? (Elastic Collision),PHYSICS,(Elastic Collision),1) u3\frac{u}{\sqrt{3}}3​u​,(2) 23u\sqrt{\frac{2}{3}}u32​​u,(3) u6\frac{u}{\sqrt{6}}6​u​,(4) uuu,a,2020
+67,A uniform rod of mass m with a weight of mass 2m suspended at 75 cm from end A. Find tension at A. (Rotational Equilibrium),PHYSICS,(Rotational Equilibrium),0.5 mg,1 mg,(3) 0.75 mg,(4) 2 mg,b,2020
+68,A cylindrical vessel of radius 5 cm is rotated with angular speed ω. What is the height difference of the liquid from center to sides? (Rotating Liquid),PHYSICS,Rotating Liquid),(1) 2ω2R2g\frac{2\omega^2R^2}{g}g2ω2R2​,(2) 5ω2R2g\frac{5\omega^2R^2}{g}g5ω2R2​,(3) 2gR2ω2\frac{2gR^2}{\omega^2}ω22gR2​,(4) 5gR2ω2\frac{5gR^2}{\omega^2}ω25gR2​,a,2020
+69,Power output of reactor using 2 kg U-235 in 30 days,PHYSICS,Nuclear Physics,35 MW,60 MW,125MW,75MW,b,2020
+70,"Internal energy of gas mixture (3 mol O₂, 5 mol Ar)",PHYSICS,(Thermodynamics),15RT,13RT,20RT,11RT,a,2020
+71,Period of revolution of star in galaxy with ρ ∝ 1/r,PHYSICS,Gravitation,T² ∝ R,T² ∝ R³,T² ∝ √R,T ∝ R,a,2020
+72,Ratio of tensions in strings with different frequencies,CHEMISTRY,Periodic Properties,Ionization enthalpy,Electronegativity,Electron gain enthalpy,Atomic radius,d,2020
+73,Which property shows an opposite trend across a period compared to others?,CHEMISTRY,Molecular Geometry,Square pyramidal,Tetrahedral,Rectangular planar,Square planar,a,2020
+74,"If AB₄ is a polar molecule, what is a possible geometry?",CHEMISTRY,Ideal Gas Laws,Graph I,Graph II,Graph III,Graph IV,b,2020
+75,"An open beaker of water is in equilibrium with water vapor in a sealed container. When glucose is added, the rate at which water molecules:",CHEMISTRY,Colligative Properties,Leaves vapor increases,Leaves solution increases,Leaves solution decreases,Leaves vapor decreases,c,2020
+76,"While titrating dilute HCl with aqueous NaOH, which of the following is NOT required?",CHEMISTRY,Titration Apparatus,Burette and porcelain tile,Pipette and distilled water,Clamp and phenolphthalein,Bunsen burner and measuring cylinder,d,2020
+77,The metal mainly used in photoelectric cells is:,CHEMISTRY,Surface Chemistry,Na,Li,Rb,Cs,d,2020
+78,"If Ek = ∑ₖ=1⁴ (k / (k + 1)) = m/n, m + n = ?",MATHS,Series,166,120,144,132,a,2020
+79,"A.P.s from 100 to 199 with integer d, 3 ≤ n ≤ 33. Sum of all d’s?",MATHS,Arithmetic Progressions,53,45,60,48,c,2020
+80,"Solve 2sin²θ − cos²θ = 0 and 2cos²θ + 3sinθ = 0 in [0, 2π]. Sum = kπ. Find k.",MATHS,Trigonometric Equations,3,4,5,6,c,2020
+81,"Mean = 30, SD = 5 for 40 obs. Two wrong values 12, 10 removed. New SD²?",MATHS,Statistics,238,240,236,242,a,2020
+82,Values of λ for which system has no solution,MATHS,Linear Equations,More than two elements,Empty set,Singleton,Exactly two elements,d,2020
+83,Domain of f(x) = sin⁻¹((2x + 5)/(x² + 1)),MATHS,Functions & Domain,√13,(√17 - 1)/2,(1 + √17)/2,√(17 + 10),c,2020
+84,Values of λ for which system has no solution,MATHS,Continuity & Differentiability,(e² - 3e + 13)/2,(2e² - 3e - 13)/e,(e² + 3e + 13)/2,(e² - 3e + 13)/e,d,2020
+85,"Tangent to y = x + sin y parallel to line joining (0,3) and (2,2)",MATHS,Differentiation,b = a,b - a,1,b = -a,b,2020
+86,"p(x) has local max 8 at x = 1 and min 4 at x = 2, find p(0)",MATHS,Maxima & Minima,6,-12,24,12,b,2020
+87,Equation of normal to y = x² + 7x + 2 nearest to y = 3x - 3,MATHS,Coordinate Geometry,x + 3y + 26 = 0,x + 3y - 62 = 0,x - 3y - 11 = 0,x - 3y + 22 = 0,A,2020
+88,Area outside circle x² + y² = 1 and inside ellipse x²/4 + y² = 1,MATHS,Area under Curves,6(π - 2),3(π - 2),3(4 - π),6(4 - π),A,2020
+89,"Solve dy/dx = -(cos x)/(2 + sin x)(y + 1), y(0) = 1, find y(1) = a, dy/dx at π = b",MATHS,Differential Equations,"(2, 2)","(1, -1)","(1, 1)","(2, 1)",C,2020
+90,"Plane through (1,2,1), (2,1,2) and parallel to 2x = 3y, z = 1 passes through",MATHS,3D Geometry,"(0, 6, -2)","(-2, 0, 1)","(0, -6, 2)","(2, 0, -1)",B,2021
+91,"Card drawn from Box 1 (1–30) or Box 2 (31–50), number is non-prime, find P(Box 1)",MATHS,Probability,½, 4/9, 2/5, 5/9,B,2021
+92,"If e is electronic charge, c is speed of light, h is Planck’s constant, the quantity 1 has dimensions of:",PHYSICS,Units & Dimensions,[MLT⁰],[M⁰L⁰T⁰],[MLT⁻¹],[LC⁻¹], b,2021
+93,"A stone is dropped from a building. When it crosses 5 m, another stone is dropped from 25 m. Both reach ground together. Height of building?",PHYSICS,Kinematics,25 m,45 m,35 m,50 m,b,2021
+94,A sphere of radius a and mass m rolls with speed v₀ and climbs an incline θ. How far up will it go?,PHYSICS,"Work, Energy & Power",\frac{v_0^2}{2g \sin \theta},\frac{v_0^2}{5g \sin \theta},\frac{v_0^2}{7g \sin \theta},\frac{v_0^2}{g \sin \theta},b,2021
+95,"In a PV diagram for 1 mole of ideal gas, if V₂ = 2V₁, then T₂/T₁ is:",PHYSICS,Thermodynamics,1,02-Jan,2,04-Jan,a,2021
+96,Statement I: Rotational energy of diatomic gas obeys Maxwell’s distribution. Statement II: Rotational energy equals translational KE.,PHYSICS,Kinetic Theory of Gases,"I false, II true","I true, II false",Both true,Both false,b,2021
+97,Two springs of constant 2k attached to mass m. Time period of oscillation?,PHYSICS,SHM,\pi \sqrt{\frac{m}{k}},2\pi \sqrt{\frac{m}{2k}},\pi \sqrt{\frac{m}{2k}},2\pi \sqrt{\frac{m}{k}},a,2021
+98,"A point A moves in a circle of radius 0.36 m, covering 30° in 0.1 s. Projection P on diameter executes SHM. Restoring force per unit mass at M?",PHYSICS,SHM,0.49 N,9.87 N,50 N,100 N,b,2021
+99,A charge q is placed at one corner of a cube. Flux through shaded face is:,PHYSICS,Gauss’s Law,\frac{q}{8\varepsilon_0},\frac{q}{24\varepsilon_0},\frac{q}{48\varepsilon_0},\frac{q}{4\varepsilon_0},b,2021
+100,"In a ferromagnetic material, below Curie temperature, a domain is:",PHYSICS,Magnetism,Region with saturation magnetization,Region with opposite dipoles,Region with zero magnetization,Region with random dipoles,a,2021
+101,"Electron enters capacitor at angle α with KE K₁, exits at angle β with KE K₂. K₁:K₂ = ?",PHYSICS,Motion in E-field,\frac{\sin^2 \beta}{\cos^2 \alpha},\frac{\sin \beta}{\cos \beta},\frac{\cos^2 \beta}{\cos^2 \alpha},\frac{\cos^2 \alpha}{\cos^2 \beta},d,2021
+102,"A hyperbola passes through foci of ellipse 25x² + 16y² = 1. If transverse and conjugate axes align with ellipse and product of eccentricities is 1, equation is:",MATHS,Conic Sections,2x² - 3y² = 1,x² - y² = 9,2x² - y² = 1,x² - 2y² = 1,a,2021
+103,"Contrapositive of “If you work, you earn money” is:",MATHS,Logic,"If not earn, then not work","To earn, you must work","If not work, then earn","If earn, then work",a,2021
+104,"If A is a 2×2 matrix and A·Aᵗ = I₂, then a² + 3a² = ?",MATHS,Matrices,3,1,2,4,b,2021
+105,A is 3×3 with det(A) = 4. B is formed by R₂ → 2R₂ + 5R₃ on 2A. Find det(B).,MATHS,Determinants,64,16,128,80,a,2021
+106,"System: 2x+3y+2z=9, 3x+2y+2z=9, x−y+4z=8. Then:",MATHS,Linear Equations,Infinitely many solutions,Unique solution,Solution exists with a² + b² + c² = 12,No solution,b,2021
+107,cosec[2cot⁻¹(5) + cos⁻¹(¾)] = ?,MATHS,Inverse Trigonometry,55/56,65/33,65/56,56/33,a,2021
+108,f(x) = ⌊2x⌋. Find f(2/9) + f(4/9) + ... + f(28/9):,MATHS,Series,22,49,39,29,c,2021
+109,"Let x = one-one functions from A (3 elements) to B (5 elements), y = one-one from A to A×B. Then:",MATHS,Functions & Sets,"x = 60, y = 120","x = 120, y = 60","x = 60, y = 1200","x = 120, y = 600",c,2021
+110,Shortest distance between line x−y=1 and curve x²=2y:,MATHS,Coordinate Geometry,√2,1,2√2,0,c,2021
+111,∫ (e⁴ log x + 5e³ log x − 7e² log x)/(e³ log 2x + 5) dx = ?,MATHS,Integration,log,x² + 5x − 7,+ c,4 log,a,2021
+112,Method used for purification of Indium is:,CHEMISTRY,Metallurgy,Vapour phase refining,Liquation,Zone refining,Van Arkel method,c,2021
+113,Correct order of bond dissociation enthalpy of halogens:,CHEMISTRY,Bond Enthalpy,F₂ > Cl₂ > Br₂ > I₂,Cl₂ > F₂ > Br₂ > I₂,I₂ > Br₂ > Cl₂ > F₂,Cl₂ > Br₂ > F₂ > I₂,d,2021
+114,α and β sulphur interconvert with heating/cooling. Which is true?,CHEMISTRY,Allotropes of Sulphur,Both true,"I true, II false","I false, II true",Both false,b,2021
+115,Major components of German Silver are:,CHEMISTRY,Alloys,"Zn, Ni, Ag","Cu, Zn, Ni","Ge, Cu, Ag","Cu, Zn, Ag",b,2021
+116,Arrange complexes in decreasing spin-only magnetic moment:,CHEMISTRY,Coordination Compounds,(ii) > (i) > (iii) > (iv),(iii) > (iv) > (ii) > (i),(i) > (iii) > (iv) > (ii),(ii) > (iii) > (i) > (iv),c,2021
+117,Ni²⁺ is identified by dimethylglyoxime in NH₄OH. Which is true?,CHEMISTRY,Qualitative Analysis,"I false, II true","I true, II false",Both true,Both false,b,2021
+118,Major product of CH₃CH₂CH=CH₂ + H₂/CO (Rh catalyst):,CHEMISTRY,Organic Reactions,CH₃CH₂CH=CHCHO,CH₃CH₂CH₂CH₂CHO,CH₃CH₂CH₂CHO,CH₃CH₂C≡CH₂CHO,b,2021
+119,Product X in reaction with oxalic acid at 210°C:,CHEMISTRY,Organic Reactions,CHO-CHO,CH₂-CHO,CHOH-CHOH,CH₂OH-CH₂OH,b,2021
+120,Product formed with aniline in carbylamine test:,CHEMISTRY,Carbylamine Test,CONH₂,NHCH₃,CN,C₆H₅NC,d,2022
+121,Correct structure of α-anomer of maltose:,CHEMISTRY,Biomolecules,Structure with α-linkage,β-anomer,Random OH positions,All OH equatorial,a,2022
+122,Two projectiles are thrown with same speed at 45° and 30°. Ratio of ranges?,PHYSICS,Projectile Motion,2:√3,√3:2,1:√2,√2:1,a,2022
+123,M₂ = 2M₁ → acceleration a₁; M₂ = 3M₁ → acceleration a₂. Find a₂/a₁.,PHYSICS,Newton’s Laws,03-Feb,02-Mar,02-Jan,2,b,2022
+124,"Ball of 0.15 kg hits wall at 12 m/s, rebounds at same speed. Force = 100 N. Time of contact?",PHYSICS,Impulse-Momentum,0.018 s,0.036 s,0.009 s,0.072 s,b,2022
+125,Two bodies of 8 kg and 2 kg have equal KE. Ratio of momenta?,PHYSICS,Kinetic Energy & Momentum,01:01,02:01,01:04,04:01,b,2022
+126,Body projected with ⅓ escape velocity. Max height? (R = 6400 km),PHYSICS,Gravitation,800 km,1600 km,2133 km,4800 km,a,2022
+127,Rope area = 2.5×10⁻⁴ m² lifts 10 tons. Area needed for 25 tons?,PHYSICS,Stress & Strain,6.25×10⁻⁴ m²,10×10⁻⁴ m²,1×10⁻⁴ m²,1.67×10⁻⁴ m²,a,2022
+128,Ice cube in box melts. Dimensions and thermal data given. Rate of melting?,PHYSICS,Heat Transfer,6.1×10⁻⁴ kg/s,6.1×10⁻⁵ kg/s,208 kg/s,3.0×10⁻⁴ kg/s,b,2022
+129,Gas with n degrees of freedom. Cv/Cp = ?,PHYSICS,Thermodynamics,n/(n+2),2n/(n+2),n/(2n+2),(n−2)/n,a,2022
+130,"y = 2sin(ωt − kx). For wave velocity = max particle velocity, λ = ?",PHYSICS,Waves,4π,2π,π,2,a,2022
+131,Two spheres of 5 mm and 10 mm connected. Ratio of E at surfaces?,PHYSICS,Electrostatics,01:02,02:01,01:01,01:04,b,2022
+132,Hemoglobin has 0.34% Fe. Fe atoms in 3.3 g hemoglobin?,CHEMIISTRY,Biomolecules,1.21×10⁵,1.2×10¹⁶,1.21×10²⁰,3.4×10²²,c,2022
+133,Metal with low melting point near metalloid?,CHEMIISTRY,Periodic Properties,Al,Ga,Se,In,b,2022
+134,"Increasing covalent character: CaF₂, CaCl₂, CaBr₂, CaI₂",CHEMIISTRY,Fajan’s Rule,B<A<C<D,A<B<C<D,A<B<D<C,A<C<B<D,b,2022
+135,AB₂ decomposes with t₁/₂ = 200 s (1st order). Time for 80% decomposition?,CHEMIISTRY,Chemical Kinetics,200 s,323 s,467 s,532 s,c,2022
+136,Finest gold appears red; color changes with particle size. Reason: scattering,CHEMIISTRY,Surface Chemistry,"A true, R true, R correct","A true, R true, R not correct","A true, R false","A false, R true",a,2022
+137,Metal not extracted from sulphide ore?,CHEMIISTRY,Metallurgy,Aluminium,Iron,Lead,Zinc,a,2022
+138,Products of H₂O₂ + acidified KMnO₄?,CHEMIISTRY,Redox Reactions,"Mn⁴⁺, H₂O","Mn²⁺, H₂O","Mn⁴⁺, H₂O, O₂","Mn²⁺, H₂O, O₂",d,2022
+139,"Diamagnetic complex (Fe = 26, Cu = 29)?",CHEMIISTRY,Coordination Compounds,K₃[Cu(CN)₄],K₂[Cu(CN)₄],K₃[Fe(CN)₄],K₄[FeCl₆],a,2022
+140,DiBAI-H reduction of ester gives:,CHEMIISTRY,Organic Reactions,Aldehyde,Alcohol,Carboxylic acid,Ketone,a,2022
+141,Hydrolysis of which gives carbolic acid?,CHEMIISTRY,Phenol Formation,Cumene,Benzenediazonium chloride,Benzal chloride,Ethylene glycol ketal,b,2022
+142,Reagents for converting NO₂ to NH₂ via diazonium salt,CHEMIISTRY,Organic Synthesis,"HNO₂, KI, Fe/H⁺, H₂O/warm","HNO₂, Fe/H⁺, KI, H₂O/warm","HNO₂, KI, HNO₂, Fe/H⁺","HNO₂, Fe/H⁺, HNO₂, KI",b,2022
+143,Vulcanization of rubber involves:,CHEMIISTRY,Polymers,Isoprene + styrene,Neoprene + sulfur,Isoprene + sulfur,Neoprene + styrene,c,2022
+144,Animal starch is also called:,CHEMIISTRY,Biomolecules,Amylose,Maltose,Glycogen,Amylopectin,c,2022
+145,∫₀^π (sinx + cosx)² dx = ?,MATHS,Definite Integration,10π + 4,10π + 2,20π − 2,20π + 2,d,2022
+146,Area between y = x² − 1 and y = 1,MATHS,Area Under Curves,2√2 + 1,√2 − 1,2√2 − 1,3√2 − 1,d,2022
+147,Solution of dy/dx + x² − 1 = xy/(x⁴ + 2x) passes through origin. Find ∫₂⁴ f(x) dx,MATHS,Differential Equations,√e,e,e²,√2e,b,2022
+148,Vector d is parallel to intersection of planes. Angle with b = i−2j+2k?,MATHS,Vectors & 3D Geometry,3π/4,π/3,5π/6,π/6,a,2022
+149,"X ~ Binomial with mean 4, variance 3. Find 54·P(X ≤ 2)",MATHS,Probability,25/27,27/146,27-Jul,126/81,b,2022
+150,Numbers between 1000 and 3000 divisible by 4 using 1–6 without repetition,MATHS,Permutations,30,24,36,48,a,2014
+151,"The current-voltage relation of a diode is given by I = (e^{1000V} - 1) mA, where V is in volts and T in kelvin. If a student has a ±0.01 V error while measuring 5 mA current at 300 K, what is the error in current (mA)?",Physics,Semiconductor Devices,0.2 mA,0.02 mA,0.5 mA,0.05 mA,A,2014
+152,"From a tower of height H, a particle is thrown vertically upward with speed u. The time taken to hit the ground is n times the time taken to reach the highest point. What is the correct relation between H, u, n?",Physics,Kinematics,2gH = n^2u^2,gH = (n-2)^2u^2,2gH = nu^2(n-2),gH = (n-2)u^2,C ,2014
+153,A block of mass m is placed on a surface with vertical cross section given by y = \frac{x^2}{2R}. Coefficient of friction is 0.5. What is the max height above the ground the block can be placed without slipping?,Physics,Mechanics (Friction),\frac{1}{3}m,\frac{1}{2}m,\frac{2}{3}m,\frac{1}{\sqrt{3}}m,A,2014
+154,A stretched rubber band exerts a restoring force F = ax + bx^2. What is the work done in stretching it by length L?,Physics,"Work, Energy & Power",aL^2 + bL^3,\frac{1}{2}(aL^2 + bL^3),\frac{aL^2 + bL^3}{3},2 + b^2,B,2014
+155,"A mass m is supported by a massless string wound around a uniform hollow cylinder (mass m, radius R). If string doesn’t slip, what is the acceleration of the mass when released?",Physics,Rotational Motion,\frac{2g}{5},g,\frac{g}{2},\frac{g}{3},B,2014
+156,A bob of mass m suspended from a vertical support rotates in a horizontal circle with angular speed \omega. About point of suspension:,Physics,Angular Momentum,Angular momentum is conserved,Changes in magnitude but not direction,Changes in direction but not magnitude,Changes in both direction and magnitude,D,2014
+157,Four particles of mass M move along a circle under mutual gravitational attraction. What is their speed?,Physics,Gravitation,\sqrt{\frac{GM}{R}},\sqrt{\frac{GM}{2R}},\sqrt{\frac{GM}{1+2\sqrt{2}}R},\sqrt{\frac{GM}{R(1+2\sqrt{2})}},D,2014
+158,Two non-mixing liquids of densities d_1 and d_2 are filled in a vertical circular tube. Each subtends 90° at center. Radius joining their interface makes angle \alpha with vertical. Then \frac{d_1}{d_2} is:,Physics,Fluid Mechanics,\frac{1+\sin\alpha}{1-\sin\alpha},\frac{1-\cos\alpha}{1+\cos\alpha},\frac{1+\tan\alpha}{1-\tan\alpha},\frac{1+\sin\alpha}{1-\cos\alpha},C,2014
+159,"Bubbles at bottom of heated water detach and rise. Assume bubble as sphere of radius R, contact radius r \ll R, surface tension = T, density = \rho_w. What is r just before detachment?",Physics,Surface Tension,R^2\sqrt{\frac{2\rho_wg}{3T}},R^2\sqrt{\frac{6T}{\rho_wg}},R^2\sqrt{\frac{\rho_wg}{T}},R^2\sqrt{\frac{3T}{\rho_wg}},A,2014
+160,"An open glass tube is immersed in mercury such that 8 cm extends above mercury level. If sealed and raised by 46 cm, find length of air column above mercury in tube now. (Atmospheric pressure = 76 cm Hg)",Physics,Properties of Matter,16 cm,22 cm,38 cm,6  cm ,A,2014
+161,The ratio of masses of oxygen and nitrogen in a gas mixture is 1:4. What is the ratio of their molecule numbers?,Chemistry,Mole Concept,01:04,07:32,0.103472222,03:16,B,2014
+162,Correct quantum numbers for valence electrons of rubidium (Z=37)?,Chemistry,Atomic Structure,"5,0,0,+½","5,1,0,+½","5,1,1,+½","5,0,1,+½",A,2014
+163,Which property is not shown by NO?,Chemistry,Chemical Bonding,Diamagnetic in gaseous state,Neutral oxide,Forms NO₂,Bond order is 2.5,A,2014
+164,For which molecules is the dipole moment \mu \ne 0?,Chemistry,Molecular Polarity,Cl₂,CN,OH,SH,D,2014
+165,Van der Waal's equation at low pressure becomes:,Chemistry,Gaseous State,Z = 1 + BT,Z = 1 - \frac{V}{RT},Z = 1 - \frac{RT}{Pb},Z = 1 + RT,B,2014
+166,"Given combustion of ethanol releases -1364.47 kJ/mol in bomb calorimeter at 25°C, what is the enthalpy of combustion assuming ideality?",Chemistry,Thermochemistry,-1366.95,-1361.95,-1460.5,-1350.5,A,2014
+167,"For reaction SO₂ + ½O₂ → SO₃, K_p = K_c(RT)^x. Find x:",Chemistry,Equilibrium,-1,-0.5,½,1,B,2014
+168,In which reactions does H₂O₂ act as a reducing agent?,Chemistry,Redox Reactions,H₂O₂ + 2H⁺ + 2e⁻ → 2H₂O,H₂O₂ - 2e⁻ → O₂ + 2H⁺,H₂O₂ + 2e⁻ → 2OH⁻,H₂O₂ + 2OH⁻ - 2e⁻ → O₂ + 2H₂O,D,2014
+169,"In Kjeldahl method, 1.4 g organic compound evolves NH₃ that reacts with 60 ml H₂SO₄. Unused acid needs 20 ml NaOH. % of Nitrogen?",Chemistry,Analytical Chemistry,6%,10%,3%,5%,B,2014
+170,Which amine has smallest pKb value (i.e. strongest base)?,Chemistry,Organic Chemistry – Amines,(CH₃)NH,CH₃NH₂,(CH₃)₃N,C₆H₅NH₂,A,2014
+171,Solve: -3(x - [x])^2 + 2(x - [x]) + a^2 = 0 has no integral solution. Then possible values of a lie in?,Maths,Algebra (Functions),"(-2, -1)","(-∞,-2) ∪ (2,∞)","(-1,0) ∪ (0,1)","(1,2)",C,2014
+172,"Given roots \alpha, \beta of px^2 + qx + r = 0, with p, q, r in A.P. and \alpha + \frac{1}{\beta} = 4. Find |\alpha - 3|",Maths,Algebra (Roots & Coefficients),√34,2√13,√61,2√17,B,2014
+173,"If |z| \geq 2, what's the minimum value of |z + \frac{1}{z}|?",Maths,Complex Numbers,> 2,> 1 and < 2,2,Between 1 and 2,D,2014
+174,"If (10)^9 + 2(11)(10)^8 + ... + 10(11)^9 = k(10)^9, find k:",Maths,Binomial Expansion,100,110,441,1000,A,2014
+175,Three numbers in G.P. with middle term doubled become A.P. What's the common ratio of G.P.?,Maths,Progressions,2 / 3.,2 + √3,1/2 + √3,3 + √2,B,2014
+176,"Coefficients of x^3 and x^4 in expansion of (1 + ax + bx^2)(1 - 2x)^{18} are zero. Find (a,b).",Maths,Binomial/Series,"(14, 272)","(16, 272)","(16, 251)","(14, 251)",B,2014
+177,Let f_k(x) = \frac{1}{k}(\sin^k x + \cos^k x). Then f_4(x) - f_6(x) =?,Maths,Trigonometry,0,2,1,3,B,2014
+178,"Triangle P(2,2), Q(6,-1), R(7,3). PS is a median. Find equation of line through (1,-1) and parallel to PS.",Maths,Coordinate Geometry,4x + 7y + 3 = 0,2x - 9y - 11 = 0,4x - 7y - 11 = 0,2x + 9y + 7 = 0,D,2014
+179,"Lines 4ax + 2ay + c = 0 and 5bx + 2by + d = 0 intersect in fourth quadrant, equidistant from axes. Then:",Maths,Coordinate Geometry,3bc - 2ad = 0,3bc + 2ad = 0,2bc - 3ad = 0,2bc + 3ad = 0,A,2014
+180,"Circle C centered at (1,1) radius 1. Circle T centered at (0,y), passes through origin and touches C externally. Radius of T?",Maths,Geometry – Circles,1,√2,√3,2,B,2015
+181,A pendulum with length 20.0 cm is timed for 100 oscillations using a wristwatch (±1s). What’s the accuracy in determining g?,Physics,Error Analysis,5%,4%,3%,1%,C,2015
+182,Two stones thrown simultaneously upward from a cliff (240 m high) at 10 m/s and 40 m/s. Which graph best represents their relative position vs. time?,Physics,Kinematics,Linear increasing,Parabolic,Constant,V-shaped,D,2015
+183,"Two blocks (20 N, 100 N) pressed against a wall with friction coefficients 0.1 (between blocks) and 0.15 (with wall). What’s the frictional force by wall on block B?",Physics,Mechanics (Friction),150 N,100 N,80 N,120 N,D,2015
+184,"Distance of center of mass of a uniform solid cone from its vertex, given base radius R, height h?",Physics,Center of Mass,\frac{3h}{8},\frac{3R}{8},\frac{5h}{8},\frac{5h}{3},A,2015
+185,"A particle of mass m, speed 2v, collides inelastically with another of mass 2m, speed v (in y direction). What is the percentage energy loss?",Physics,Collisions,62%,44%,50%,56%,D,2015
+186,"From a solid sphere (mass M, radius R), a cube with max volume is cut. What is the moment of inertia of the cube about axis perpendicular to face?",Physics,Rotational Motion,\frac{4MR^2}{9\sqrt{3}\pi},MR^2,\frac{4MR^2}{3\sqrt{3}\pi},\frac{3\sqrt{3}\pi}{4}MR^2,A,2015
+187,"A spherical portion is removed from a solid sphere (mass M, radius R) forming a cavity. What's the potential at cavity center? V=0 at r=\infty.",Physics,Gravitation,-\frac{GM}{R},\frac{GM}{R},-\frac{2GM}{3R},-\frac{GM}{2R},C,2015
+188,"A wire pendulum has period T. Adding mass M changes period to T_M. Given Young's modulus Y, what’s the expression for it?",Physics,SHM & Elasticity,\frac{Mg}{A} \left(1 - \frac{T}{T_M} \right),\frac{Mg}{A} \left( \frac{T_M}{T} \right),\frac{Mg}{A} \left( \frac{T_M}{T} \right)^2,\frac{Mg}{A} \left( \frac{T}{T_M} \right)^2,A,2015
+189,Adiabatic expansion of ideal gas increases average molecular collision time as V^\theta. What is the value of \theta?,Physics,Thermodynamics,\frac{2}{5},\frac{3}{7},\frac{3}{5},\frac{5}{7},D,2015
+190,"Black body radiation inside a spherical shell (radius R, temp T). On adiabatic expansion, what’s the relation between T and R?",Physics,Radiation,T \propto R^{-3},T \propto e^{-R},T \propto R^{-1},T \propto R^{-2},A,2015
+191,"Resin formula C_8H_7SO_3Na, mol. wt = 206. Max uptake of Ca²⁺ ions (mol/g)?",Chemistry,Ionic Exchange,\frac{1}{103},\frac{1}{206},\frac{1}{309},\frac{2}{206},A,2015
+192,Which is a possible excited state energy of hydrogen?,Chemistry,Atomic Structure,+6.8 eV,+13.6 eV,-6.8 eV,-3.4 eV,D,2015
+193,"Ionic radii of N^{3-}, O^{2-}, F^- are:",Chemistry,Periodic Trends,"1.71, 1.36, 1.40 Å","1.36, 1.40, 1.71 Å","1.36, 1.71, 1.40 Å","1.71, 1.40, 1.36 Å",D,2015
+194,Which interaction varies as inverse cube of distance?,Chemistry,Intermolecular Forces,Hydrogen bond,Ion-ion interaction,Ion-dipole,London forces,A,2015
+195,Assertion: N₂ and O₂ do not react to form NOₓ in the atmosphere. Reason: The reaction needs high temperature.,Chemistry,Chemical Thermodynamics,"Both correct, reason explains assertion","Both correct, but reason doesn't explain","Assertion incorrect, reason correct",Both incorrect,A,2015
+196,"Sodium crystallizes in a body-centered cubic lattice, unit cell edge = 4.29 Å. What's atomic radius?",Chemistry,Solid State,0.93 Å,1.86 Å,3.22 Å,5.72 Å,B,2015
+197,Vapour pressure of pure acetone = 185 torr. Adding 1.2 g solute to 100 g acetone reduces it to 183 torr. Find molar mass of solute.,Chemistry,Solutions,488 g/mol,32 g/mol,64 g/mol,128 g/mol,C,2015
+198,Two Faradays of electricity passed through CuSO₄. How much copper is deposited? (Atomic mass of Cu = 63.5),Chemistry,Electrochemistry,127 g,0 g,63.5 g,2 g,C,2015
+199,Why are reactions of order >3 rare?,Chemistry,Chemical Kinetics,Collision losses,Low probability of simultaneous collision,Entropy increase,Equilibrium shift,B,2015
+200,3 g charcoal in 50 mL 0.06 N acetic acid becomes 0.042 N after 1 hr. Find acetic acid adsorbed per gram charcoal.,Chemistry,Surface Chemistry,54 mg,18 mg,36 mg,42 mg,B,2015
+201,Vertex O and point Q on parabola x^2 = 8y; P divides OQ in 1:3. Find locus of P.,Maths,Coordinate Geometry,x^2 = 2y,x^2 = y,y^2 = x,y^2 = 2x,A,2015
+202,Tangents at ends of latus rectum of ellipse x^2/a^2 + y^2/b^2 = 1. Find area enclosed.,Maths,Geometry – Conics,27 sq. units,18,32,24,A,2015
+203,Evaluate \lim_{x\to0} \frac{(1 - \cos 2x)(3 + \cos x)}{x \tan x},Maths,Limits,3,2,4,1,D,2015
+204,Negation of \sim s \vee (\sim r \wedge s) is equivalent to:,Maths,Logic,s \wedge r,s \wedge \sim r,s \wedge (r \vee \sim s),s \vee (r \vee \sim s),A,2015
+205,"Mean of 16 observations is 16. One 16 is removed, and 3 new (3,4,5) are added. New mean?",Maths,Statistics,14,15.8,16,16.8,A,2015
+206,"Elevation angles from A, B, C on a line are 30°, 45°, 60°. Find ratio AB:BC.",Maths,Trigonometry,02:03,13:01,13:√2,01:13,B,2015
+207,"Given matrix equation AA^T = 9I, find values of a and b in A = \begin{bmatrix} 2 & 1 & -2 \\ a & b & c \\ \dots \end{bmatrix}",Maths,Matrices,"(-2, -1)","(2, -1)","(-2, 1)","(2, 1)",A,2015
+208,Find values of \lambda for which system of 3 linear equations has non-trivial solution.,Maths,Linear Algebra,More than 2 values,Exactly 2 values,Empty set,Singleton,B,2015
+209,"The normal to the curve x^2 + 2xy - 3y^2 = 0 at point (1,1):",Maths,Coordinate Geometry,Meets curve again in 4th quadrant,Does not meet again,Meets curve again in 2nd quadrant,Meets curve again in 3rd quadrant,A,2015
+210,Let f(x) be a 4th-degree polynomial with extreme values at x = 1 and x = 2. Then \lim_{x\to0} \frac{f(x)}{x^2} equals:,Maths,Limits & Polynomials,4,-8,-490,0,D,2016
+211,"A student measures the time for 100 pendulum oscillations four times: 90s, 91s, 95s, 92s. If clock resolution is 1s, what should be the reported mean time?",Physics,Error Analysis,92 ± 1.8 s,92 ± 3 s,92 ± 2 s,92 ± 5 s,C,2016
+212,"A particle slides on a rough track PQR (shown), released from point P. If energy loss over PQ = energy loss over QR, and no loss at transition, approximate coefficient of friction \mu and distance QR (x)?",Physics,Mechanics (Friction),0.29 & 3.5 m,0.29 & 6.5 m,0.20 & 6.5 m,0.20 & 3.5 m,A,2016
+213,"A person lifts a 10 kg mass 1 m high, 1000 times. Given energy from fat is 3.8 \times 10^7 J/kg at 20% efficiency. How much fat is burnt?",Physics,"Work, Power & Energy",9.89 \times 10^{-3} kg,2.45 \times 10^{-3} kg,12.89 \times 10^{-3} kg,6.45 \times 10^{-3} kg,C,2016
+214,A particle moves at speed v along the side of a square in xy-plane. Which statement is false about its angular momentum around origin?,Physics,Angular Momentum,\vec{L} = -mvB + ak (B→C),\vec{L} = Rk (A→B),\vec{L} = -Rk (D→A),\vec{L} = muP + ak (C→D),D,2016
+215,A double-cone roller is pushed between asymmetrical rails AB and CD. What motion will it follow?,Physics,Rolling Motion,Go straight,Turn left and right alternately,Turn left,Turn right,B,2016
+216,A satellite is in circular orbit at height h \ll R. Minimum increase in velocity to escape Earth’s gravity is:,Physics,Gravitation,\sqrt{gR},\sqrt{gR(2 - 1)},2\sqrt{gR},\sqrt{gR(2)},B,2016
+217,"A pendulum loses 12 s/day at 40°C, gains 4 s/day at 20°C. What temperature gives correct time and what is \alpha (expansion coefficient)?",Physics,Thermal Expansion,,,,,,2016
+218,An ideal gas undergoes a process shown on PV graph. Maximum temperature during the process is:,Physics,Thermodynamics,,,,,,2016
+219,"An ideal gas undergoes a quasi-static process where PV^n = \text{constant}, and heat capacity is constant. Then n =?",Physics,Heat & Thermodynamics,\frac{C - C_v}{C_p - C_v},\frac{C - C_p}{C_p - C},\frac{C - C_v}{C - C_p},\frac{C - C_v}{C_p},A,2016
+220,A particle in SHM with amplitude A has speed tripled when at a distance 2A from equilibrium. New amplitude?,Physics,Simple Harmonic Motion,\frac{C - C_p}{C_p - C},2A,3A,\sqrt{2}A,C,2016
+221,"At 300 K and 1 atm, 15 mL of a hydrocarbon requires 375 mL of air (20% O₂) for complete combustion. After combustion, volume = 345 mL. Water formed is liquid. Determine formula of hydrocarbon.",Chemistry,Combustion Analysis,C₄H₈,C₄H₁₀,C₃H₆,C₃H₈,D,2016
+222,"A stream of electrons passes through plates with potential difference V. If e and m are electron's charge and mass, the de Broglie wavelength \lambda is:",Chemistry,Quantum Mechanics,\frac{1}{\sqrt{meV}},\frac{1}{\sqrt{2meV}},\sqrt{meV},2meV,B,2016
+223,Which atom has highest first ionization energy?,Chemistry,Periodic Properties,K,Sc,Rb,Na,B,2016
+224,In which species is nitrogen sp hybridized?,Chemistry,Chemical Bonding,NO₃⁻,NO₂,NO₂,NO,C,2016
+225,"Two equal-volume bulbs with ideal gas at pressure p_i, one heated to T_2, other at T_1. Final pressure p_f?",Chemistry,Gas Laws,\frac{2p_i T_2}{T_1 + T_2},\frac{2p_i T_1 T_2}{T_1 + T_2},\frac{2p_i T_1 T_2}{T_1 + T_2},\frac{2p_i T_1}{T_1 + T_2},A,2016
+226,"Heats of combustion: C = –393.5, CO = –283.5 kJ/mol. What’s heat of formation of CO?",Chemistry,Thermochemistry,–676.5,–110,110.5,676.5,B,2016
+227,"For reaction A + B ⇌ C + D at 298 K, K = 100, initial [A], [B], [C], [D] = 1 M each. Find equilibrium [D].",Chemistry,Equilibrium,1.818,1.182,0.182,0.818,A,2016
+228,Which statement about water is false?,Chemistry,Properties of Water,Extensive intramolecular H-bonding in condensed phase,Ice from D₂O sinks in normal water,Water oxidized to oxygen in photosynthesis,Water acts as both acid and base,A,2016
+229,"Main oxides on combustion of Li, Na, K in excess air are:",Chemistry,S-Block Elements,"Li₂O₂, Na₂O₂, KO₂","Li₂O, Na₂O₂, KO₂","Li₂O, Na₂O, KO₂","LiO₂, Na₂O₂, K₂O",B,2016
+230,Absolute configuration of the compound COOH–CHCl–CHCl–H is:,Chemistry,Organic Chemistry (Stereoisomerism),"(2S, 3S)","(2R, 3R)","(2R, 3S)","(2S, 3R)",D,2016
+231,Solve: (x^2 - 5x + 5) + 4x - 60 = 1. Find the sum of all real solutions.,Maths,Algebra,6,5,3,4,C,2016
+232,Find \theta such that \frac{2 + 3i \sin \theta}{1 - 2i \sin \theta} is purely imaginary.,Maths,Complex Numbers,\sin^{-1} \left( \frac{1}{\sqrt{3}} \right),\sin^{-1} \left( \frac{1}{2} \right),\sin^{-1} \left( \frac{1}{\sqrt{2}} \right),\sin^{-1} \left( \frac{1}{\sqrt{5}} \right),B,2016
+233,"How many 5-letter words (with or without meaning) can be formed using letters of ""SMALL""? What is the dictionary position of the word ""SMALL""?",Maths,Permutations,52nd,58th,46th,59th,B,2016
+234,"If the 2nd, 5th, and 9th terms of an A.P. are in G.P., find the common ratio of the G.P.",Maths,Sequences,1,2,3,4,D,2016
+235,Sum of first 10 terms of the series (1^3) + (2^3)^2 + (3^3)^2 + \dots is 10m. Find m.,Maths,Series,100,99,102,101,D,2016
+236,"If the number of terms in expansion of (1 - 2 + \sqrt{2})^x is 28, then sum of coefficients is:",Maths,Binomial Expansion,243,729,64,2187,B,2016
+237,"Number of real values of x \in [0, 2\pi) satisfying \cos x + \cos 2x + \cos 3x + \cos 4x = 0?",Maths,Trigonometry,7,9,3,5,A,2016
+238,"Two sides of a rhombus lie along lines x - y + 1 = 0 and 7x - y - 5 = 0. Diagonals intersect at (–1, –2). Find a vertex.",Maths,Coordinate Geometry,"(–3, –9)","(–3, –8)","(–3, –7)","(–3, –6)",A,2016
+239,Centres of circles that touch x^2 + y^2 - 8x - 8y - 4 = 0 externally and also touch x-axis lie on:,Maths,Geometry,Hyperbola,Parabola,Circle,Ellipse,B,2016
+240,"One diameter of circle x^2 + y^2 - 4x + 6y - 12 = 0 is a chord of another circle with center at (–3, 2). Find radius of second circle.",Maths,Circles,5,10,5\sqrt{2},5\sqrt{3},D,2016
+241,"Diameter = 12.6 ± 0.1 cm, Height = 34.2 ± 0.1 cm. Volume = ?",Physics,Error Analysis,4264 ± 81 cm³,4264.4 ± 81.0 cm³,4260 ± 80 cm³,4300 ± 80 cm³,C,2019
+242,A and B have equal magnitudes.,Physics,Vectors,A + B,A − B,. Angle between A and B?,cos⁻¹[(n²−1)/(n²+1)],A,2019
+243,"P = 2F, Q = 3F. If Q is doubled and resultant doubles, angle between them?",Physics,Forces,120°,60°,30°,90°,A,2019
+244,Velocity-time graph given. Position at t = 5 s?,Physics,Kinematics,10 m,9 m,6 m,3 m,B,2019
+245,"F = 3i − 1.2j, d = 4i. Initial KE = 3 J. Final KE = ?",Physics,Work-Energy,9 J,15 J,12 J,10 J,B,2019
+246,Two spheres on a rod. Moment of inertia about center?,Physics,Rotational Motion,5MR²,15MR²,13MR²,17MR²,C,2019
+247,"Rod of length 3l with masses at ends, pivoted at P. Angular acceleration?",Physics,Rotational Dynamics,2g/3l,7g/9l,g/l,5g/3l,D,2019
+248,"Two stars of 3×10³¹ kg each, 2×10¹¹ m apart. Escape speed for meteorite at center?",Physics,Gravitation,2.4×10⁴ m/s,3.8×10⁴ m/s,2.8×10⁵ m/s,1.4×10⁵ m/s,C,2019
+249,0.5 mol monoatomic gas heated from 20°C to 90°C at 1 atm. Work done?,Physics,Thermodynamics,73 J,581 J,291 J,146 J,C,2019
+250,192 g metal at 100°C in 128 g brass + 240 g water at 8.4°C. Final temp = 21.5°C. Find c.,Physics,Calorimetry,916 J/kg·K,458 J/kg·K,654 J/kg·K,1232 J/kg·K,A,2019
+251,71st electron of Z = 71 enters which orbital?,Chemistry,Electronic Configuration,5d,4f,6p,6s,A,2019
+252,Energy of 2nd excited state of He⁺ (Z = 2)?,Chemistry,Atomic Structure,−27.2 eV,−6.04 eV,−3.4 eV,−54.4 eV,B,2019
+253,Process with negative entropy change?,Chemistry,Thermodynamics,NH₃ synthesis,I₂ dissolution,CaSO₄ dissociation,Dry ice sublimation,A,2019
+254,"Isothermal compression from 5 m³ to 1 m³, P = 4 N/m². Heat released = 24 J/mol·K. ΔT for Al?",Chemistry,Thermodynamics,2 K,1 K,½ K,2.5 K,A,2019
+255,5.1 g NH₄SH in 3 L flask at 327°C. 30% decomposed. Find Kp.,Chemistry,Equilibrium,0.242 atm²,0.242×10⁻⁴ atm²,1×10⁻⁴ atm²,4.9×10⁻³ atm²,A,2019
+256,Oxalate with permanganate in acid. Electrons per CO₂?,Chemistry,Redox Reactions,1,2,4,5,C,2019
+257,2c-2e and 3c-2e bonds in B₂H₆?,Chemistry,Chemical Bonding,4 and 2,2 and 4,2 and 2,2 and 1,A,2019
+258,Name of compound: CH₃−C(CH₃)=CH−CH₂Br,Chemistry,IUPAC Nomenclature,4-Bromo-3-methylpent-2-ene,"3-Bromo-3-methyl-1,2-dimethylprop-1-ene",2-Bromo-3-methylpent-3-ene,"3-Bromo-1,2-dimethylbut-1-ene",A,2019
+259,Major product of mononitration of toluene?,Chemistry,Aromatic Substitution,Ortho-nitrotoluene,Meta-nitrotoluene,Para-nitrotoluene,Nitrobenzene,A,2019
+260,Reaction not involved in ozone depletion?,Chemistry,Environmental Chemistry,CH₄ + O₂ → CO₂ + H₂O,ClO + O → Cl + O₂,CF₂Cl₂ → Cl + CF₂Cl,HOCl → OH + Cl,A,2019
+261,x² + (3 − √x)x + 2 = X. Find X for min sum of squares of roots.,Maths,Quadratic Equations,2,4,15,1,A,2019
+262,z = √(−1) + √(−1). R(z) and I(z)?,Maths,Complex Numbers,I(z) = 0,"R < 0, I > 0","R > 0, I > 0",R = −3,A,2019
+263,"If 20{(50°C)(50°C − 25 − T)} = K(50°C − 25), then K = ?",Maths,Algebra,225,224,225 − 1,(25)²,A,2019
+264,Coefficient of x² in x²(√x + 1/√x)⁶ = 720. Find value of √x.,Maths,Binomial Theorem,√5,4,2√2,3,C,2019
+265,Value of cos(π/2)·cos(2π/3)·sin(2π/3) = ?,Maths,Trigonometry,21.00,512,1,256,B,2019
+266,"The line touches a circle at the point . If the circle also passes through the point , then its
+radius is",Maths,Circles,3√2,3,2,2√2,D,2019
+267,"If the system of linear equations x+y+z=5, x+2y+2z, x+3y+λz=u  has
+infinitely many solutions, then the value of λ+u is:",Maths,Differential equation,7,10,12,9,B,2019
+268,"Assume that each born child is equally likely to be a boy or girl. If two families have two children each, then
+the conditional probability that all children are girls given that at least two are girls is:",Maths,Probability,0.08,0.10,0.09,0.06,C,2019
+269,The number of digit number that can be formed using the digits and which are divisible by 11 and no digit is repeated is:,Maths,Number System,36,60,72,48,B,2019
+270,"If a1,a2,a3,….aN are in AP and a1 + a2 + a7 ….. + a16=114, then a1+a6+a11+a16 is qual to",Maths,Arithmetic Progression,64.00,98,38,76,D,2019
+271,Relative error in surface area is a. What is the relative error in volume?,physics,Error Analysis,a,2a,3a,4a,C,2018
+272,Car stops in 40 m at 40 km/h. What is stopping distance at 80 km/h?,physics,Kinematics,75 m,160 m,100 m,150 m,B,2018
+273,Object takes n times more time on rough 45° incline than smooth. Find μ.,physics,Laws of Motion,√(n² - 1),1 - 1/n²,2 - 1/n²,√(2n - 1),B,2018
+274,Body splits into two masses in orbit. Find energy difference.,physics,Gravitation,-GMm/2R,+GMm/6R,-GMm/6R,GMm/2R,C,2018
+275,Carnot refrigerator between 250K and 300K absorbs 500 cal. Work done?,physics,Thermodynamics,420 J,2100 J,772 J,2520 J,A,2018
+276,1 mole monoatomic gas compressed isothermally to double pressure. Work?,physics,Thermodynamics,300R ln 6,300R,300R ln 7,300R ln 2,D,2018
+277,Mass-spring system in E-field. New equilibrium position?,physics,Oscillations + E-field,Total energy unchanged,x = 2qE/k,x = qE/k,Energy = ½mw²A² - q²E²/2k,A,2018
+278,All resistors R. Find equivalent resistance between A and B.,physics,Current Electricity,2R,5R,8R,3R,A,2018
+279,0.2 μF capacitor at 10V connected to 0.5 mH inductor. V = 5V. Find I.,physics,LC Oscillations,0.17 A,0.15 A,0.34 A,0.25 A,A,2018
+280,Co-60 activity drops to 300 dpm in 10 hrs. Initial = 0.8 μCi. Blood volume?,physics,Nuclear Physics,6 L,7 L,4 L,5 L,D,2018
+281,Energy to remove electron from He+ is 2.2× that of He. Total ionization?,chemistry,Atomic Structure,20 eV,79 eV,109 eV,34 eV,B,2018
+282,"CE amplifier: Voltage, current, power gain?",physics,Electronics,"βRL, AIB, β²RL","β²RL, AIC, βRL/RBE","β²RL/RBE, AIB","β²RL/RBE, AIB",D,2018
+283,"No. of AM stations in 300 kHz bandwidth, max mod freq = 15 kHz?",physics,Communication Systems,20,10,30,15,B,2018
+284,"Stopping potential = 0.5 V, λ = 250 nm. Work function?",physics,Photoelectric Effect,4 eV,5.5 eV,4.5 eV,5 eV,C,2018
+285,"Order of ionic radii: Na+, Mg2+, F–, O2–",chemistry,Periodic Properties,O2– < F– < Na+ < Mg2+,Na+ < Mg2+ < F– < O2–,Mg2+ < Na+ < F– < O2–,Mg2+ < O2– < Na+ < F–,C,2018
+286,T-shape and square pyramidal pair?,chemistry,Molecular Geometry,ICl2– & ICl5,IO3– & IO2F2,ClF3 & IO4–,XeOF2 & XeOF4,D,2018
+287,% p-character in graphite and diamond?,chemistry,Hybridization,33 & 25,67 & 75,50 & 75,33 & 75,B,2018
+288,Which is a Lewis acid?,chemistry,Acid-Base,PH3,NF3,NaH,B(CH3)3,D,2018
+289,"White ppt with AgNO3, insoluble in dil. HNO3. Anion?",chemistry,Qualitative Analysis,CO32–,SO32–,S2–,Cl–,D,2018
+290,Correct combo: [NiCl4]2– and [Ni(CO)4],chemistry,Coordination Compounds,"Square-planar, paramagnetic","Tetrahedral, paramagnetic","Paramagnetic, tetrahedral","Diamagnetic, square-planar",C,2018
+291,"If the sum of cubes of roots of x² + (2–x)x + (10–x) is minimum, then",maths,Quadratic Equations,x₁ – x₂,2√5,2√7,4√2,B,2018
+292,"Smallest n such that 900 n-digit numbers can be formed using only 2, 5, 7",maths,Permutations,6,8,9,7,D,2018
+293,"If b is the first term of an infinite G.P. with sum 5, then b lies in the interval",maths,Geometric Progression,"(–∞, –10)","(10, ∞)","(0, 10)","(–10, 0)",C,2018
+294,x₃ = h₂ = 8 and x₈ = h₇ = 20 in two A.P.s. Find x₅·h₁₀,maths,Arithmetic Progression,2560,2650,3200,1600,A,2018
+295,Degree and coefficient of xⁿ in: [(√(5x³+1) – √(5x³–1))⁸],maths,Algebraic Expressions,"(12, (20)⁴)","(8, 5(10)⁴)","(24, (10)⁸)","(12, 8(10)⁴)",D,2018
+296,"tan A, tan B are roots of 3x² + 10x – 25. Evaluate: 3sin²(A+B) – 10sin(A+B)cos(A+B) – 25cos²(A+B)",maths,Trigonometry,25,–25,–10,10,B,2018
+297,"A = (1,2), medians from B and C: x+y=5, x=4. Find area of triangle ABC",maths,Coordinate Geometry,5,9,12,4,B,2018
+298,"Circle through (2,3) & (4,5), center lies on y – 4x + 3 = 0. Radius?",maths,Circles,√5,1,√2,2,C,2018
+299,Two parabolas with latus rectum 3 intersect in 1st quadrant. Common tangent?,maths,Parabola,3(x+y)+4=0,8(2x+y)+3=0,4(x+y)+3=0,x+2y+3=0,C,2018
+300,"Plane at √3 km height, elevation changes from 60° to 30° in 5s. Speed?",maths,Trigonometry + Kinematics,1500 km/h,750 km/h,720 km/h,1440 km/h,D,2018

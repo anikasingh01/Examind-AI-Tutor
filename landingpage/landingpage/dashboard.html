@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dashboard | ExaMind</title>
+  <link rel="stylesheet" href="styles/dashboard.css" />
+</head>
+<body>
+  <div class="dashboard-container">
+    <h1>👋 Welcome, Student</h1>
+
+    <div class="dashboard-buttons">
+      <a href="chatbot.html" class="btn">💬 Talk to Nexa-AI</a>
+      <a href="http://localhost:3000/quiz" class="btn">🎯 Start Quiz</a>
+      <a href="performance.html" class="btn">📊 View Your Performance</a>
+    </div>
+
+    <section class="performance-preview">
+      <h2>Your Recent Performance</h2>
+      <ul id="performance-list">
+        <li>Loading...</li>
+      </ul>
+      <button class="btn clear-btn" onclick="clearPerformance()">🗑 Clear History</button>
+    </section>
+  </div>
+
+  <script>
+    const performanceList = document.getElementById("performance-list");
+
+    function loadPerformance() {
+      const data = JSON.parse(localStorage.getItem("examind-performance")) || [];
+
+      performanceList.innerHTML = "";
+
+      if (data.length === 0) {
+        performanceList.innerHTML = "<li>No recent quizzes yet. Take one!</li>";
+        return;
+      }
+
+      data.forEach((entry) => {
+        const li = document.createElement("li");
+        const date = new Date(entry.timestamp).toLocaleString();
+        li.textContent = `📚 ${entry.topic} – Score: ${entry.score} – 🕒 ${date}`;
+        performanceList.appendChild(li);
+      });
+    }
+
+    function clearPerformance() {
+      if (confirm("Are you sure you want to clear your performance history?")) {
+        localStorage.removeItem("examind-performance");
+        loadPerformance();
+      }
+    }
+
+    loadPerformance();
+  </script>
+</body>
+</html>
